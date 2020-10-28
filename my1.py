@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
-# 1391358816:AAFCQLtieoSlxYmdNdOFZ4eIhEGWKoju3T4
 import telebot
 from json_write_function import write_json
 
 
 
-bot = telebot.TeleBot('1391358816:AAFCQLtieoSlxYmdNdOFZ4eIhEGWKoju3T4')
+bot = telebot.TeleBot('')
 sum_credit = 0
 
 phone_num = {'89167345200':'Екатерина Юрьевна', '89288167447': 'Денис Олегович','89262682738': 'Фариз Фазилевич'}
